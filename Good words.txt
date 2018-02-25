@@ -1,0 +1,312 @@
+inevitably - Certainly
+A conversation that Force.com developers almost inevitably find themselves in the career is: how to maintain a development cycle
+
+daunting :seeming difficult to deal with in prospect; intimidating.
+ It can be a fairly daunting one, especially depending on the complexity of your team and project.
+
+
+succinct : concise;Short;brief;
+However, we didn’t really go into succinct detail of getting Jenkins up and running.
+
+rarer treat: in hindi: Durlabh Illaz
+ Force.com Migration Tool sometimes becomes a rarer treat
+
+acquainted : make someone aware of or familiar with.
+So jump over to the Force.com Migration Tool’s wiki page, get acquainted with it, install it – and we’ll see you at Step 2.
+
+solely : only
+commitments based solely on developer estimates.
+
+Numerous: great in number; many.
+Deploy the most numerous components separately
+
+
+sporadic: occurring at irregular intervals or only in a few places; irregular;infrequent;limited
+During this time, I have sporadic access to emails and calls (AA: can use while go on vacation)
+
+
+Tailored : smart; fit
+Tailored implementation
+
+adverse: preventing success or development; harmful; unfavourable.
+wants the custom code to be unit tested for all the adverse conditions.
+
+
+catastrophic:extremely unfortunate or unsuccessful.
+Act as a backup in case of catastrophic data loss.
+
+
+Viable:capable of working successfully; feasible.
+Identify the minimum viable product 
+
+Steering committee:
+a committee that decides on the priorities or order of business of an organization and manages the general course of its operations.
+
+prohibit: Preventing
+Why does Salesforce prohibit Stress Testing against Production?
+
+inadvertently : without intention; accidentally.
+risk of bugs being inadvertently introduced to production
+
+solicit : s?'l?s?t/: ask for or try to obtain (something) from someone
+verb: past tense: solicited; past participle: solicited
+he called a meeting to solicit their views
+The requirements should not be solicited by an external community.
+
+evident: '?v?d(?)nt/: adjective
+clearly seen or understood; obvious.
+CI will becomes even more evident when different developers will be used over the lifecycle of your Salesforce implementation
+
+rely: r?'l??/: verb
+depend on with full trust or confidence.
+"I know I can rely on your discretion"
+
+overly: ??v?li/: adverb: excessively.
+she was a jealous and overly possessive woman"
+------------------------------------------------
+interception: ?nt?'s?p?(?)n/: noun
+action taken to prevent someone or something from continuing to a destination.
+"the interception of arms shipments"
+You can also use code challenge and verifier values in the flow to prevent authorization code interception.
+---------------------------------------------
+unscathed: ?n'ske?ðd/: adjective
+without suffering any injury, damage, or harm.
+"I came through all those perils unscathed"
+---------------------------------------------
+colloquial : k?'l??kw??l/Submit
+adjective
+(of language) used in ordinary or familiar conversation; not formal or literary.
+"colloquial and everyday language"
+As it turns out, the term "SAML token" seems to be a colloquial way to refer to the SAML Assertion
+---------------------------------------------
+pedant
+'p?d(?)nt/Submit
+noun
+a person who is excessively concerned with minor details and rules or with displaying academic learning.
+"the royal palace (some pedants would say the ex-royal palace)"
+The pedant in you may be smiling. You've got me!
+---------------------------------------------
+anachronistic
+?nakr?'n?st?k/Submit
+adjective
+belonging to a period other than that being portrayed.
+"'Titus' benefits from the effective use of anachronistic elements like cars and loudspeakers"
+belonging or appropriate to an earlier period, especially so as to seem conspicuously old-fashioned.
+"she is rebelling against the anachronistic morality of her parents"
+---------------------------------------------
+pervasive
+p?'ve?s?v/Submit
+adjective
+(especially of an unwelcome influence or physical effect) spreading widely throughout an area or a group of people.
+"ageism is pervasive and entrenched in our society"
+---------------------------------------------
+acquaint
+?'kwe?nt/Submit
+verb
+make someone aware of or familiar with.
+"new staff should be acquainted with fire exit routes"
+synonyms:familiarize, make familiar, make conversant, get/keep up to date
+---------------------------------------------
+impersonate
+?m'p??s(?)ne?t/Submit
+verb
+pretend to be (another person) for entertainment or fraud.
+"it's a very serious offence to impersonate a police officer"
+---------------------------------------------
+precisely
+pr?'s??sli/Submit
+adverb
+in exact terms; without vagueness.
+"the guidelines are precisely defined"
+exactly (used to emphasize the complete accuracy or truth of a statement).
+"at 2.00 precisely, the phone rang"
+synonyms:	exactly, sharp, on the dot; More
+used as a reply to confirm or agree with a previous statement.
+"‘You mean it was a conspiracy?’ ‘Precisely.’"
+synonyms:	yes, exactly, quite, absolutely, right, that's right, just so, quite so, indubitably, without a doubt, definitely; 
+---------------------------------------------
+recourse [	option, possibility, alternative]
+r?'k??s/Submit
+noun
+a source of help in a difficult situation.
+"surgery may be the only recourse"
+---------------------------------------------
+innocuous
+?'n?kj??s/Submit
+adjective
+not harmful or offensive.
+"it was an innocuous question"
+synonyms:	harmless, safe, non-dangerous, non-poisonous, non-toxic, non-irritant, non-injurious, innocent; More
+
+---------------------------------------------
+alleviate: Reduce
+?'li?v?e?t/Submit
+verb
+make (suffering, deficiency, or a problem) less severe.
+"he couldn't prevent her pain, only alleviate it"
+synonyms:	reduce, ease, relieve, take the edge off, deaden, dull, diminish, lessen, weaken, lighten, attenuate, allay, assuage, palliate, damp, soothe, help, soften, temper, control, still, quell, quieten, quiet, tone down, blunt, dilute, moderate, mitigate, modify, abate, lull, pacify, placate, mollify, sweeten; rareextenuate
+"he couldn't prevent her pain, only alleviate it"
+
+While this does not alleviate all the challenges related to multiple organizations
+---------------------------------------
+seamless
+'si?ml?s/Submit
+adjective
+(of a fabric or surface) smooth and without seams or obvious joins.
+"seamless stockings"
+smooth and continuous, with no apparent gaps or spaces between one part and the next.
+"the seamless integration of footage from different sources"-----
+
+---------------------------------------------
+proliferation (Increase/growth)
+pr?l?f?'re??n/Submit
+noun
+rapid increase in the number or amount of something.
+"a continuing threat of nuclear proliferation"
+rapid reproduction of a cell, part, or organism.
+"we attempted to measure cell proliferation"
+synonyms:	rapid increase, growth, multiplication, spread, escalation, expansion, build-up, buildout, burgeoning, snowballing, mushrooming
+"the proliferation of missiles and missile technology"
+a large number of something.
+"stress levels are high, forcing upon them a proliferation of ailments"
+---------------------------------------------
+unprecedented (Unknown)
+?n'pr?s?d?nt?d/Submit
+adjective
+never done or known before.
+"the government took the unprecedented step of releasing confidential correspondence"
+synonyms:	unparalleled, unequalled, unmatched, unrivalled, without parallel, without equal; 
+---------------------------------------------
+embark [Begin]
+?m'b??k,?m'b??k/Submit
+verb
+past tense: embarked; past participle: embarked
+1.
+go on board a ship or aircraft.
+"he embarked for India in 1817"
+synonyms:	board ship, go on board, go aboard, climb aboard, step aboard, take ship; More
+2.
+begin (a course of action).
+"she embarked on a new career"
+synonyms:	begin, start, commence, undertake, set about, enter on, go into, take up; More
+
+With this in mind, salesforce.com has embarked on a strategy of adapting the single sign-on flow
+---------------------------------------------
+tenet (Rule)
+'t?n?t,'ti?n?t/Submit
+noun
+plural noun: tenets
+a principle or belief, especially one of the main principles of a religion or philosophy.
+"the tenets of classical liberalism"
+synonyms:	principle, belief, doctrine, precept, creed, credo, article of faith, dogma, canon, rule; More
+---------------------------------------------
+eavesdrop
+verb
+gerund or present participle: eavesdropping
+secretly listen to a conversation.
+"my father eavesdropped on my phone calls"
+synonyms:	listen in, spy, intrude; 
+
+In order to prevent eavesdropping and tampering
+--------------------------------------------
+
+---------------------------------------------
+
+---------------------------------------------
+
+---------------------------------------------
+
+---------------------------------------------
+
+---------------------------------------------
+--------------------------------------------
+
+---------------------------------------------
+
+---------------------------------------------
+
+---------------------------------------------
+
+---------------------------------------------
+
+---------------------------------------------
+--------------------------------------------
+
+---------------------------------------------
+
+---------------------------------------------
+
+---------------------------------------------
+
+---------------------------------------------
+
+---------------------------------------------
+--------------------------------------------
+
+---------------------------------------------
+
+---------------------------------------------
+
+---------------------------------------------
+
+---------------------------------------------
+
+---------------------------------------------
+--------------------------------------------
+
+---------------------------------------------
+
+---------------------------------------------
+
+---------------------------------------------
+
+---------------------------------------------
+
+---------------------------------------------
+--------------------------------------------
+
+---------------------------------------------
+
+---------------------------------------------
+
+---------------------------------------------
+
+---------------------------------------------
+
+---------------------------------------------
+--------------------------------------------
+
+---------------------------------------------
+
+---------------------------------------------
+
+---------------------------------------------
+
+---------------------------------------------
+
+---------------------------------------------
+--------------------------------------------
+
+---------------------------------------------
+
+---------------------------------------------
+
+---------------------------------------------
+
+---------------------------------------------
+
+---------------------------------------------
+--------------------------------------------
+
+---------------------------------------------
+
+---------------------------------------------
+
+---------------------------------------------
+
+---------------------------------------------
+
+---------------------------------------------
+
+
+
